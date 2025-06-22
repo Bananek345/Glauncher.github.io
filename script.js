@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Najlepiej, jeśli ten link prowadzi do zaufanego źródła, np. GitHub Releases,
         // lub Twojej własnej domeny z plikiem.
         // Przykładowy bezpieczny link do GitHub Releases (ZMIEN PRAWIDLOWO!)
-        window.location.href = 'https://github.com/Bananek345/Glauncher/raw/refs/heads/main/Glauncher_v1.0.1.exe'; 
+        window.location.href = 'https://github.com/Bananek345/Glauncher/raw/refs/heads/main/Glauncher_v1.0.5.exe'; 
         
         // Opcjonalnie: małe powiadomienie
         alert('Zostaniesz Przeniesiony Na Strone Pobierania GLauncher! Dziękujemy za wybranie nas!');
